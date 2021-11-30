@@ -20,7 +20,7 @@ This project focuses on building an intelligent Health Portal for logging encoun
 ![image](https://user-images.githubusercontent.com/42530224/143977446-0eff392f-a832-4bb8-9bbf-62b2adc437aa.png)
 
 ### Home screen
-![image](https://user-images.githubusercontent.com/42530224/143977521-d20f8875-53ba-46fb-ae3a-55bbc99d4881.png)
+![image](https://user-images.githubusercontent.com/42530224/143978648-3894c6f7-f1f4-4c45-a0f2-3eab584aa9b2.png)
 
 ### Add visits
 ![image](https://user-images.githubusercontent.com/42530224/143977943-134a0f98-a49b-4b46-a688-660b12420961.png)
