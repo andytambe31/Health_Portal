@@ -10,7 +10,7 @@ This project focuses on building an intelligent Health Portal for logging encoun
 * Java IDE
 
 ## Local setup
-* Install all the dependecies mentioned above
+* Install all the dependencies mentioned above
 * Import the project zip in appropriate IDE
 * Run MainJFrame
 
